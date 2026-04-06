@@ -109,3 +109,26 @@ This project demonstrates the ability to:
 ## 👤 Author
 
 Mohammed Fassi Fehri
+
+## 📌 Project Summary
+
+### 🇬🇧 English
+
+This project explores the application of deep learning techniques to medical image classification, specifically chest X-ray images.
+A convolutional neural network (ResNet18 pretrained on ImageNet) was used within a transfer learning framework to handle limited data.
+
+The model was trained on a small dataset and evaluated on a separate validation set, achieving approximately 87.5% validation accuracy.
+This result indicates a reasonable generalization capability despite the limited size of the dataset.
+
+The project highlights key steps of a computer vision pipeline in a medical context, including image preprocessing, supervised learning, model evaluation, and result visualization.
+
+---
+
+### 🇫🇷 Français
+
+Ce projet explore l’application de techniques de deep learning à la classification d’images médicales (radiographies pulmonaires).
+Un modèle de type CNN (ResNet18 pré-entraîné sur ImageNet) a été utilisé dans une approche de transfer learning afin de s’adapter à un contexte de données limitées.
+
+Le modèle a été entraîné sur un petit jeu de données, puis évalué sur un ensemble de validation indépendant, atteignant une précision d’environ 87,5 %, ce qui montre une capacité de généralisation satisfaisante.
+
+Ce projet met en évidence les étapes clés d’un pipeline de vision par ordinateur en contexte médical, incluant le prétraitement des images, l'apprentissage supervisé, l'évaluation des performances et la visualisation des résultats.
